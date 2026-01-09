@@ -1,0 +1,90 @@
+# Simple Calculation Program
+# variable and operators
+
+a=30
+b=50
+c=a+b
+
+ # Arithmetic operators:
+ 
+print("sum of two numbers is:", a+b)
+print("subtraction of two numbers is:",a-b)
+print(" Multiplication of two numbers", a*b)
+print(" Division of two numbers", a/b)
+print(" Division of two numbers", b/a)
+print("floor division of two numbers:", b//a)
+print("modulo division of two number:", b% a)
+print("power of two numbers:",b**a)
+
+ #Relation operators:
+ 
+print("A is greaterthan B:",a>b)
+print("A is lessthan B:",a<b)
+print("A is greaterthan or equal to B:",a>=b)
+print("A is Lessthan or equal to B:",a<=b)
+print("A is Not equals to B:",a!=b)
+print("A is double equal:", a==b)
+
+ #logical operator:
+ 
+print(" Add two conditions:",a<b and b<c)
+print(" Add two conditions:",a<b and b<c)
+print(" Or operator:", a<b or b<c)
+print(" Or opreator:",a<b or b<c)
+print("Not operator:", b>c)
+
+ #Assigment opreator: (a+=2 -> a=a+2)
+
+a+=40
+print("After a+=40:", a)
+a-=30
+print(" After a-=30:", a) 
+b*=20
+print(" After b*=20:", b)
+c/=10
+print("After c/=10:", c)
+b//=20
+print(" After b//=20:", b)
+c%=15
+print(" After c%=15:", c)
+a**=20
+print("After a**=20:", a)
+
+
+#Bitwise operators:
+
+print("Bitwise AND:",a+b)
+print("Bitwise OR:",a-b)
+print("Bitwise XOR:",a^b)
+print("Bitwise Negation:",~b)
+print("Bitwise Left shift:",a<<b)
+print("Bitwise Right shift:",a>>b)
+
+
+# Membership Operators:
+
+s=[10,30,67,"hello",3.90,"sarika","true",652.90]
+
+print("IN operators:",50 in s)
+print("IN operator:", "hey" in s)
+print("IN operators:", "Sarika" in s)
+print("NOT In operators:", 10 in s)
+print(" NoT In operators:", 20 in s)
+
+
+#Identity operators:
+
+print(" IS operators:", a is b)
+print(" NOT Is operators:", c is not b)
+
+
+
+
+
+
+       
+
+ 
+ 
+ 
+ 
