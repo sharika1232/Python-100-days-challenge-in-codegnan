@@ -9,7 +9,6 @@ cards={"a","hello","sarika","hi",635,8,67}
 student_marks={"math":90,'tel':75,"eng":80,"sci":56}
 weight=588.5
 
-
 print("my name is:", name)
 print("my age is:", age)
 print("my weight is:", weight)
