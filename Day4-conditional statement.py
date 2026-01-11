@@ -52,20 +52,3 @@ elif n<0 and n%2==0:
     print(num, "Number is negitive even")
 else:
     print(num, "Number is negitive odd")
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
