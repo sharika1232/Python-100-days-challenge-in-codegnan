@@ -75,16 +75,3 @@ print(" NoT In operators:", 20 in s)
 
 print(" IS operators:", a is b)
 print(" NOT Is operators:", c is not b)
-
-
-
-
-
-
-       
-
- 
- 
- 
- 
-
