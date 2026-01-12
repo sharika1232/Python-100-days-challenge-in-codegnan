@@ -35,9 +35,7 @@ for num in lst:
         print(num, "is negative")
 print("program done")
 
-
 #print 1-40 numbers using range function
-
 
 for s in range(40):
     print(s)
@@ -46,3 +44,4 @@ for s in range(40):
 
 for num in range(0,50,2):
     print(num)
+
